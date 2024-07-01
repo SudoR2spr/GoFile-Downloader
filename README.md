@@ -9,7 +9,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
 <p align="center">
 
-<a href="https://colab.research.google.com/github/SudoR2spr/GoFile-Downloader/blod/main/GoFile/woodcraft.ipynb/" target="_blank">
+<a href="https://colab.research.google.com/github/SudoR2spr/GoFile-Downloader/blob/main/GoFile/woodcraft.ipynb" target="_blank">
   <img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Gofile-Colab-button.png" alt="GoFile To Google Colab" style="width:150px;"/>
 </a></p>
 <p align="center">
@@ -21,7 +21,7 @@
 `So, this tool is like kinda file downloader and archiver on google colab. There is rclone too, so, you can transfer your files from colab directory to your cloud drive. Need rclone config to make transfer work.`
 
 # Open notebook here:
-<p align=center><a href="https://colab.research.google.com/github/SudoR2spr/GoFile-Downloader/blod/main/GoFile/woodcraft.ipynb/" target="_blank">
+<p align=center><a href="https://colab.research.google.com/github/SudoR2spr/GoFile-Downloader/blob/main/GoFile/woodcraft.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Link"/>
   </a></p>
 
