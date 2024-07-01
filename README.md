@@ -1,8 +1,8 @@
-# GoFile-Dowanloader
+# GoFile-Downloader
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 <!-- GIF Angel x Op-->
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/Gofile-Dl.png"width="200%">
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/Gofile-Dl.png"width="100%">
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 ```
