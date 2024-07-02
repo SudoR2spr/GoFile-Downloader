@@ -25,6 +25,26 @@
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Link"/>
   </a></p>
 
+# 👇 `नीचे तो देखो` 👇
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
+<p align="center">
+
+<a href="https://colab.research.google.com/github/SudoR2spr/GoFile-Downloader/blob/main/Rclone%20Transfer/Rclone%20woodcraft.ipynb" target="_blank">
+  <img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Rclone-button.png" alt="Rclone To Google Colab" style="width:150px;"/>
+</a></p>
+<p align="center">
+
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
+<p align="center">
+<!-- RAINBOW LINE TOP -->
+
+<p>Use ***rclone_version*** stable for official rclone, and ***rclone_version*** mod with additional support for teldrive. Fill ***source*** with source path or direct download link, ***dest*** with your destination path.</p>`
+
+# Open notebook here:
+<p align=center><a href="https://colab.research.google.com/github/SudoR2spr/GoFile-Downloader/blob/main/Rclone%20Transfer/Rclone%20woodcraft.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Link"/>
+  </a></p>  
+
 ### Colab Threatens to Ban, Why?
 
 **Recent changes in Colaboratory T&C prohibits the following actions and could result in ban from colab[^1].**
