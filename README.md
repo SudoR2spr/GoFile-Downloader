@@ -39,7 +39,7 @@
 <!-- RAINBOW LINE TOP -->
   
 # 🔧 Rclone Transfer
-<p>Use ***rclone_version*** stable for official rclone, and ***rclone_version*** mod with additional support for teldrive. Fill ***source*** with source path or direct download link, ***dest*** with your destination path.</p>`
+<p>Use <b>rclone_version</b> stable for official rclone, and <b>rclone_version</b> mod with additional support for teldrive. Fill <b>source</b> with source path or direct download link, <b>dest</b> with your destination path.</p>`
 
 # Open notebook here:
 <p align=center><a href="https://colab.research.google.com/github/SudoR2spr/GoFile-Downloader/blob/main/Rclone%20Transfer/Rclone%20woodcraft.ipynb" target="_blank">
